@@ -2,12 +2,8 @@
   "users": [
     {
       "username": "naxadmin",
-      "password": "123"
-    },
-    {
-      "username": "one",
-      "password": "one"
+      "password": "123",
+      "expired": "2025-12-10"
     }
   ]
 }
-
