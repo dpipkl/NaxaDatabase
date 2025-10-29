@@ -1,1 +1,13 @@
+{
+  "users": [
+    {
+      "username": "naxadmin",
+      "password": "123"
+    },
+    {
+      "username": "one",
+      "password": "one"
+    }
+  ]
+}
 
