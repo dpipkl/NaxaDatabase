@@ -1,8 +1,9 @@
 {
-  "tokens": [
+    "password": "CryxtalByEndra",
+    "tokens": [
     "7915288925:AAFKPxAe2dgZ5DP1UK5vYzWRiaPcxyX2S8M",
     "8373726908:AAFEZ1aT5IBfJVXsk_9CJ7_BELVhF2_iNhs",
     "8521751533:AAFImdAo37fkVQhk6zh8BSprXGMJhE5xpLE",
     "8545759252:AAGuJKFalmXDciDGi1p9YoX8czscSGMx-Gg"
-  ]
+    ]
 }
